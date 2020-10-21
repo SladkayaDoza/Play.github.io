@@ -30,7 +30,7 @@
 }
 .unnamed_Class {
 	position: absolute;
-	width: 651px;
+	width: 100%; /* 651px */
 	height: 651px;
 	left: 33px;
 	top: 301px;
