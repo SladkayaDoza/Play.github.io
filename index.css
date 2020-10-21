@@ -1,0 +1,82 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X, XS, 11 Pro – 1;
+	--web-view-id: iPhone_X_XS_11_Pro__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_X_XS_11_Pro__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.iPhone_X_XS_11_Pro__1_Class {
+	position: absolute;
+	width: 720px;
+	height: 1440px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X, XS, 11 Pro – 1;
+	--web-view-id: iPhone_X_XS_11_Pro__1;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.b56a44f230ea8b0da0c5c270f65437_Class {
+	position: absolute;
+	width: 810px;
+	height: 1510px;
+	left: -45px;
+	top: 0px;
+	overflow: visible;
+}
+._Class {
+	left: 79px;
+	top: 919px;
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1px;
+	color: rgba(112,112,112,1);
+}
+.___Class {
+	filter: drop-shadow(0px 10px 6px rgba(255, 255, 255, 0.31));
+	left: 143px;
+	top: 666px;
+	position: absolute;
+	overflow: visible;
+	width: 435px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 109px;
+	color: rgba(112,112,112,1);
+}
+.ID1_Class {
+	filter: drop-shadow(-3px 10px 6px rgba(255, 255, 255, 0.329));
+	left: 226.5px;
+	top: -38.5px;
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 499px;
+	color: rgba(81,81,81,1);
+}
