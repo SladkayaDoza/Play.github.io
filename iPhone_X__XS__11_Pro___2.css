@@ -1,0 +1,38 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X, XS, 11 Pro – 2;
+	--web-view-id: iPhone_X_XS_11_Pro__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_X_XS_11_Pro__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.iPhone_X_XS_11_Pro__2_Class {
+	position: absolute;
+	width: 720px;
+	height: 1440px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: iPhone X, XS, 11 Pro – 2;
+	--web-view-id: iPhone_X_XS_11_Pro__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.unnamed_Class {
+	position: absolute;
+	width: 651px;
+	height: 651px;
+	left: 33px;
+	top: 301px;
+	overflow: visible;
+}
