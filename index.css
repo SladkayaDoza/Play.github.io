@@ -9,6 +9,11 @@
 :root {
 	--web-view-ids: iPhone_X_XS_11_Pro__1;
 }
+
+body {
+	min-width: 720px;
+}
+
 * {
 	margin: 0;
 	padding: 0;
